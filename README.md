@@ -3,7 +3,7 @@
   <h1 align="center">Olá! Eu sou <i>Jonatas Elieser Moreira</i> 😃️</h1>
   <p align="center">Desenvolvedor Front End</p>
   <p align="center">
-    📞 +55 (18) 99193-7096 | 📧 <a href="mailto:jonatas.em20@gmail.com">jonatas.em20@gmail.com</a> | 🌐 <a href="https://jonatasmoreira.com">Meu Portfólio</a> | 🌐 <a href="https://linkedin.com/in/jonatas">Meu LinkedIn</a>
+    📞 +55 (18) 99193-7096 | 📧 <a href="mailto:jonatas.em20@gmail.com">jonatas.em20@gmail.com</a> | 🌐 <a href="https://jonatasmoreira.com">Meu Portfólio</a> | 🌐 <a href="https://www.linkedin.com/in/jonatas-elieser-moreira-948632270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Meu LinkedIn</a>
   </p>
 </div>
 
