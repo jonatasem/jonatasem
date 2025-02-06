@@ -17,10 +17,10 @@
   </p>
 </div>
 
-<h3> 💡 Minhas Hard Skills </h3>
+<h3> 💡 Minhas Skills </h3>
 <ul>
-  <li><strong>Desenvolvimento Front-End:</strong> React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, SASS, Styled Components, Tailwind, WordPress e VTEX.</li>
-  <li><strong>Integração e Testes:</strong> Consumo de APIs RESTful com GraphQL, Axios, Fetch e Ajax. Experiência em testes automatizados com Jest, React Testing Library e Cypress.</li>
+  <li><strong>Desenvolvimento Front-End:</strong> React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, SASS, Styled Components e WordPress.</li>
+  <li><strong>Integração:</strong> Consumo de APIs RESTful com GraphQL, Axios, Fetch e Ajax.</li>
   <li><strong>Design Responsivo e Performance:</strong> Habilidade em criar interfaces de usuário responsivas e de alto desempenho, aplicando as melhores práticas de design e arquitetura, como SOLID e Clean Code.</li>
   <li><strong>Metodologias Ágeis:</strong> Conhecimento em Scrum e Kanban, colaborando em equipes multidisciplinares para entregar soluções rápidas e escaláveis.</li>
 </ul>
