@@ -53,6 +53,3 @@
 <h3> 📫 Vamos Conversar! </h3>
 <p>Estou sempre aberto a novos desafios e colaborações que me permitam aplicar meu conhecimento e contribuir para projetos inovadores. Se você está em busca de um desenvolvedor apaixonado e dedicado, vamos nos conectar!</p>
 
-<div align="center">
-  ![snake gif](./assets/snake.svg)
-</div>
