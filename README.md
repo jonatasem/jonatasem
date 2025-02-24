@@ -1,7 +1,6 @@
-
 <div>
   <h1 align="center">Olá! Eu sou <i>Jonatas Elieser Moreira</i> 😃️</h1>
-  <p align="center">Desenvolvedor Front End</p>
+  <p align="center">Desenvolvedor Web | Especialista em JavaScript, React.js e Next.js</p>
   <p align="center">
     📞 +55 (18) 99193-7096 | 📧 <a href="mailto:jonatas.em20@gmail.com">jonatas.em20@gmail.com</a> | 🌐 <a href="https://jonatasmoreira.com">Meu Portfólio</a> | 🌐 <a href="https://www.linkedin.com/in/jonatas-elieser-moreira-948632270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Meu LinkedIn</a>
   </p>
@@ -10,17 +9,17 @@
 <div>
   <h3> :man: Sobre Mim </h3>
   <p>
-    Sou um desenvolvedor com sólido conhecimento em aplicações web responsivas, utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, e <strong>WordPress</strong>. Tenho habilidade em implementar novas funcionalidades, reestruturar websites, melhorar o desempenho e garantir uma integração eficiente entre o frontend e backend via API.
+    Sou um desenvolvedor apaixonado por criar soluções digitais de alta qualidade, com especialização em tecnologias modernas como <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, e <strong>WordPress</strong>. Tenho habilidade em implementar novas funcionalidades, reestruturar websites, melhorar o desempenho e garantir uma integração eficiente entre o frontend e backend via API.
   </p>
   <p>
     Atualmente, estou cursando <strong>Engenharia da Computação</strong>, o que complementa minha formação técnica e me permite abordar problemas de forma inovadora e eficaz. Sou um eterno aprendiz, sempre em busca de me atualizar com cursos e novas tecnologias.
   </p>
 </div>
 
-<h3> 💡 Minhas Skills </h3>
+<h3> 💡 Minhas Hard Skills </h3>
 <ul>
-  <li><strong>Desenvolvimento Front-End:</strong> React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, SASS, Styled Components e WordPress.</li>
-  <li><strong>Integração:</strong> Consumo de APIs RESTful com GraphQL, Axios, Fetch e Ajax.</li>
+  <li><strong>Desenvolvimento Front-End:</strong> React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, SASS, Tailwind.</li>
+  <li><strong>Integração e APIs:</strong> REST APIs, GraphQL, Redux.</li>
   <li><strong>Design Responsivo e Performance:</strong> Habilidade em criar interfaces de usuário responsivas e de alto desempenho, aplicando as melhores práticas de design e arquitetura, como SOLID e Clean Code.</li>
   <li><strong>Metodologias Ágeis:</strong> Conhecimento em Scrum e Kanban, colaborando em equipes multidisciplinares para entregar soluções rápidas e escaláveis.</li>
 </ul>
@@ -34,7 +33,7 @@
 </ul>
 
 <h3> 🏢 Experiência Profissional </h3>
-<p><strong>Vendedor - Magazine Luiza</strong> | Adamantina, São Paulo, Brasil (Dez 2023 - Atualmente)</p>
+<p><strong>Vendedor - Magazine Luiza</strong> | Adamantina, São Paulo, Brasil (Dez 2023 - Fev 2025)</p>
 <ul>
   <li>Responsável pelo atendimento presencial e remoto, garantindo satisfação e fidelização dos clientes.</li>
   <li>Desenvolvimento de estratégias eficazes de pós-venda, resultando no aumento da retenção de clientes.</li>
@@ -47,7 +46,7 @@
 <h3> 🌍 Idiomas </h3>
 <ul>
   <li>Português (Nativo)</li>
-  <li>Inglês (B1)</li>
+  <li>Inglês (B2)</li>
   <li>Espanhol (A1)</li>
 </ul>
 
