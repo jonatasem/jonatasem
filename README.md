@@ -46,7 +46,7 @@
 <h3> 🌍 Idiomas </h3>
 <ul>
   <li>Português (Nativo)</li>
-  <li>Inglês (B2)</li>
+  <li>Inglês (B1)</li>
   <li>Espanhol (A1)</li>
 </ul>
 
