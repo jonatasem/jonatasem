@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Olá! Eu sou <i>Jonatas Elieser Moreira</i> 😃️</h1>
-  <p> Fala, pessoal! Sou o Jonatas, sou um Desenvolvedor Web que curte muito a parada de juntar código e design.</p>
+  <p>Desenvolvedor Web</p>
 </div>
 
 <div>
   <h3> :man: Sobre Mim </h3>
   <p>
-    Sou fissurado em tecnologia e, de quebra, ainda sou um apaixonado por arte. Acho que essa mistura é a receita pra criar uns projetos irados!
+    Sou fissurado em tecnologia e, de quebra, ainda sou um apaixonado por design. Acho que essa mistura é a receita pra criar uns projetos irados!
   </p>
   <p>Dá uma olhada nos meus projetos no meu <a href="https://jonatasmoreira.com">portfólio</a></p>
 </div>
