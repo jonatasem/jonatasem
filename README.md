@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou <i>Jonatas Elieser Moreira</i> 😃️</h1>
-  <p>Desenvolvedor Web</p>
+  <p>Front-end & Back-end | JavaScript/TypeScript | Criatividade e Lógica</p>
 </div>
 
 <div>
